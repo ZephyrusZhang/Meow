@@ -1,0 +1,49 @@
+{
+  "id": "baishoutao",
+  "name": "白手套",
+  "gender": "小母猫",
+  "characteristic": "狸花+一点点橘猫，四只脚的毛色都是白色的",
+  "personality": "亲人的豪猫",
+  "state": "已绝育",
+  "sections": [
+    {
+      "heading": "刷新地点",
+      "contents": [
+        {
+          "type": "paragraph",
+          "value": "二期14栋附近"
+        }
+      ]
+    },
+    {
+      "heading": "云吸猫",
+      "contents": [
+        {
+          "type": "image",
+          "src": "/images/cats/baishoutao/0.jpg",
+          "alt": "雪宝"
+        },
+        {
+          "type": "image",
+          "src": "/images/cats/baishoutao/1.jpg",
+          "alt": "雪宝"
+        },
+        {
+          "type": "image",
+          "src": "/images/cats/baishoutao/2.jpg",
+          "alt": "雪宝"
+        },
+        {
+          "type": "image",
+          "src": "/images/cats/baishoutao/3.jpg",
+          "alt": "雪宝"
+        },
+        {
+          "type": "image",
+          "src": "/images/cats/baishoutao/4.png",
+          "alt": "雪宝"
+        }
+      ]
+    }
+  ]
+}

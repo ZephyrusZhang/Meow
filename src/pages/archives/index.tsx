@@ -4,6 +4,7 @@ import Section from '@/components/section'
 import { Container, Heading, SimpleGrid } from '@chakra-ui/react'
 import React from 'react'
 
+import thumbBaishoutao from '../../../public/images/cats/baishoutao.jpg'
 import thumbBaobao from '../../../public/images/cats/baobao.jpg'
 import thumbDiudiuAndHaha from '../../../public/images/cats/diudiu-and-haha.jpg'
 import thumbHanhan from '../../../public/images/cats/hanhan.jpg'
@@ -12,8 +13,8 @@ import thumbLucky from '../../../public/images/cats/lucky.jpg'
 import thumbLuojin from '../../../public/images/cats/luojin.jpg'
 import thumbMakou from '../../../public/images/cats/makou.jpg'
 import thumbWaiwai from '../../../public/images/cats/waiwai.jpg'
-import thumbXuebao from '../../../public/images/cats/xuebao.jpg'
 import thumbXiaohuabao from '../../../public/images/cats/xiaohuabao.jpg'
+import thumbXuebao from '../../../public/images/cats/xuebao.jpg'
 
 function Cats() {
   return (
@@ -38,6 +39,9 @@ function Cats() {
           </Section>
           <Section>
             <GridItem id="xiaohuabao" title="小花包" thumbnail={thumbXiaohuabao} />
+          </Section>
+          <Section>
+            <GridItem id="baishoutao" title="白手套" thumbnail={thumbBaishoutao} />
           </Section>
           <Section>
             <GridItem id="waiwai" title="歪歪" thumbnail={thumbWaiwai} />
