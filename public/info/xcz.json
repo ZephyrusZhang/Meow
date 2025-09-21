@@ -1,0 +1,53 @@
+{
+  "id": "xcz",
+  "name": "欣常在",
+  "gender": "公公",
+  "characteristic": "大橘猫",
+  "personality": "亲人的豪猫",
+  "state": "已绝育",
+  "sections": [
+    {
+      "heading": "刷新地点",
+      "contents": [
+        {
+          "type": "paragraph",
+          "value": "欣园车棚"
+        }
+      ]
+    },
+    {
+      "heading": "起源",
+      "contents": [
+        {
+          "type": "paragraph",
+          "value": "25年春季学期出现在欣园附近。由于他性格非常好，给撸给亲给抱抱，所以很多同学慕名而去欣园专门撸他。这只猫原本起名叫\"糍粑\"。后来因为只要同学去欣园车棚，每次都能看见他在那里等投喂，所以大家现在叫他\"欣常在\"，指他经常在欣园。"
+        }
+      ]
+    },
+    {
+      "heading": "云吸猫",
+      "contents": [
+        {
+          "type": "image",
+          "src": "/images/cats/xcz/0.jpg",
+          "alt": "雪宝"
+        },
+        {
+          "type": "image",
+          "src": "/images/cats/xcz/1.jpg",
+          "alt": "雪宝"
+        },
+        {
+          "type": "image",
+          "src": "/images/cats/xcz/2.jpg",
+          "alt": "雪宝"
+        },
+        {
+          "type": "image",
+          "src": "/images/cats/xcz/3.jpg",
+          "alt": "雪宝"
+        }
+      ]
+    }
+  ]
+}
